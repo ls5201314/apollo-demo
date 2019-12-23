@@ -1,0 +1,9 @@
+server:
+  port: 8761
+
+app:
+  id: crc
+
+apollo:
+  bootstrap:
+    enabled: true
